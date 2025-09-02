@@ -140,7 +140,7 @@ footer a {
 }
 
 /* Responsividade */
-@media (max-width: 480px) {
+@media (max-width: 588px) {
   #container {
     padding: 1rem;
   }
@@ -155,6 +155,6 @@ footer a {
   }
 
   #profile img {
-    width: 80px;
+    width: 112px;
   }
 }
